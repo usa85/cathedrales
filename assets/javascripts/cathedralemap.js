@@ -20,7 +20,7 @@ function setMarkers(map) {
           map: map,
           icon: image,
           shape: shape,
-          title: cenotaphm.nom,
+          title: cenotaphm.noms,
           labels: cenotaphm.nearestRelative
          
         });
