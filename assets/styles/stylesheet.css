@@ -28,7 +28,7 @@
          text-align: center;
         }
     
-      #listOfchurch{
+      #listofchurch{
          background-color: #deb887;
          height : 800px;
          color: black;
@@ -51,7 +51,7 @@
      }
      #cathedralelist{
         background-color: #deb887;
-        color: black;
+        color: greenyellow;
         height: 800px;
         padding-top: 2rem;
         padding-left: 1rem;
@@ -59,15 +59,8 @@
         padding-bottom: 2rem;
         overflow: hidden;
      }
-     #listofChurches{
-        background-color: #deb887;
-        height : 800px;
-        padding-top: 2rem;
-        padding-left: 1rem;
-        padding-right: 1rem;
-        padding-bottom: 2rem;
-        overflow: scroll;
-     }
+    
+ 
      #mapstyle {
         background-color: #deb887;
         align-content: center;
