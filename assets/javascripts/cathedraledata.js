@@ -1,4 +1,4 @@
-let cathedraled = [
+let cathedraled=[
     {
         "lieux": "Vezelay",
         "noms": "Sainte Marie Madeleine",
