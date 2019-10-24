@@ -61,7 +61,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Modern",
         "primaryID": 4,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -72,7 +72,7 @@ let cathedraled=[
         "type": "Chapelle",
         "epoque": "Roman",
         "primaryID": 5,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -83,7 +83,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 6,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -94,7 +94,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 7,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -105,7 +105,7 @@ let cathedraled=[
         "type": "Hospices",
         "epoque": "Renaissance",
         "primaryID": 8,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -116,7 +116,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 9,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -127,7 +127,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 10,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -138,7 +138,7 @@ let cathedraled=[
         "type": "Chapelle",
         "epoque": "Romano-Gothique",
         "primaryID": 11,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -149,7 +149,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Ghotic",
         "primaryID": 12,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -160,7 +160,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 13,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -171,7 +171,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 14,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -182,7 +182,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 15,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -193,7 +193,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 16,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -204,7 +204,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 17,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -215,7 +215,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 18,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -226,7 +226,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 19,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -237,7 +237,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 20,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -248,7 +248,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 21,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -259,7 +259,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 22,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -270,7 +270,7 @@ let cathedraled=[
         "type": "Chateau",
         "epoque": "Romano-Gothique",
         "primaryID": 23,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -281,7 +281,7 @@ let cathedraled=[
         "type": "Sanctuaire",
         "epoque": "Romano-Gothique",
         "primaryID": 24,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -292,7 +292,7 @@ let cathedraled=[
         "type": "Chateau",
         "epoque": "Romano-Gothique",
         "primaryID": 25,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -303,7 +303,7 @@ let cathedraled=[
         "type": "Chateau",
         "epoque": "Romano-Gothique",
         "primaryID": 26,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     },
 
     {
@@ -314,7 +314,7 @@ let cathedraled=[
         "type": "Abbeye",
         "epoque": "Romano-Gothique",
         "primaryID": 27,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -325,7 +325,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 28,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -336,7 +336,7 @@ let cathedraled=[
         "type": "Cathedrale",
         "epoque": "Romano-Gothique",
         "primaryID": 29,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -347,7 +347,7 @@ let cathedraled=[
         "type": "Eglise",
         "epoque": "Romano-Gothique",
         "primaryID": 30,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -358,7 +358,7 @@ let cathedraled=[
         "type": "Eglise",
         "epoque": "Gothique",
         "primaryID": 31,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici  "
     },
 
     {
@@ -369,7 +369,7 @@ let cathedraled=[
         "type": "Eglise",
         "epoque": "Romano",
         "primaryID": 32,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -380,7 +380,7 @@ let cathedraled=[
         "type": "Basilique",
         "epoque": "Romano-Gothique",
         "primaryID": 33,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici  "
     },
 
     {
@@ -391,7 +391,7 @@ let cathedraled=[
         "type": "Curiosite",
         "epoque": "Napoleoniene",
         "primaryID": 34,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici "
     },
 
     {
@@ -402,6 +402,6 @@ let cathedraled=[
         "type": "Eglise",
         "epoque": "Napoleoniene",
         "primaryID": 35,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. "
+        "description": "description va ici"
     }
 ];
