@@ -5,7 +5,8 @@ let cathedraled = [
         "latitude": 47.466389,
         "longitude": 3.748611,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 1
     },
 
     {
@@ -14,7 +15,8 @@ let cathedraled = [
         "latitude": 46.59167,
         "longitude": 4.9092,
         "type": "Cathedrale",
-        "epoque": "Romano"
+        "epoque": "Romano",
+        "primaryID": 2
     },
 
     {
@@ -23,7 +25,8 @@ let cathedraled = [
         "latitude": 46.434167,
         "longitude": 4.659167,
         "type": "Abbaye",
-        "epoque": "Romano"
+        "epoque": "Romano",
+        "primaryID": 3
     },
 
     {
@@ -32,7 +35,8 @@ let cathedraled = [
         "latitude": 46.513611,
         "longitude": 4.676944,
         "type": "Cathedrale",
-        "epoque": "Modern"
+        "epoque": "Modern",
+        "primaryID": 4
     },
 
     {
@@ -41,7 +45,8 @@ let cathedraled = [
         "latitude": 46.551135,
         "longitude": 4.797713,
         "type": "Chapelle",
-        "epoque": "Roman"
+        "epoque": "Roman",
+        "primaryID": 5
     },
 
     {
@@ -50,7 +55,8 @@ let cathedraled = [
         "latitude": 48.077309,
         "longitude": 7.358062,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 6
     },
 
     {
@@ -59,7 +65,8 @@ let cathedraled = [
         "latitude": 45.778727,
         "longitude": 3.085766,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 7
     },
 
     {
@@ -68,7 +75,8 @@ let cathedraled = [
         "latitude": 47.021944,
         "longitude": 4.836667,
         "type": "Hospices",
-        "epoque": "Renaissance"
+        "epoque": "Renaissance",
+        "primaryID": 8
     },
 
     {
@@ -77,7 +85,8 @@ let cathedraled = [
         "latitude": 46.945,
         "longitude": 4.2991,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 9
     },
 
     {
@@ -86,7 +95,8 @@ let cathedraled = [
         "latitude": 47.901667,
         "longitude": 1.910278,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 10
     },
 
     {
@@ -95,7 +105,8 @@ let cathedraled = [
         "latitude": 47.704547,
         "longitude": 6.620578,
         "type": "Chapelle",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 11
     },
 
     {
@@ -104,7 +115,8 @@ let cathedraled = [
         "latitude": 48.581667,
         "longitude": 7.750833,
         "type": "Cathedrale",
-        "epoque": "Ghotic"
+        "epoque": "Ghotic",
+        "primaryID": 12
     },
 
     {
@@ -113,7 +125,8 @@ let cathedraled = [
         "latitude": 48.447222,
         "longitude": 1.487778,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 13
     },
 
     {
@@ -122,7 +135,8 @@ let cathedraled = [
         "latitude": 49.253611,
         "longitude": 2.034167,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 14
     },
 
     {
@@ -131,7 +145,8 @@ let cathedraled = [
         "latitude": 49.895,
         "longitude": 2.302222,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 15
     },
 
     {
@@ -140,7 +155,8 @@ let cathedraled = [
         "latitude": 49.253611,
         "longitude": 2.0814,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 16
     },
 
     {
@@ -149,7 +165,8 @@ let cathedraled = [
         "latitude": 47.081944,
         "longitude": 2.399444,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 17
     },
 
     {
@@ -158,7 +175,8 @@ let cathedraled = [
         "latitude": 48.96,
         "longitude": 2.878889,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 18
     },
 
     {
@@ -167,7 +185,8 @@ let cathedraled = [
         "latitude": 47.3191,
         "longitude": 5.0345,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 19
     },
 
     {
@@ -176,7 +195,8 @@ let cathedraled = [
         "latitude": 47.3180,
         "longitude": 5.0220,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 20
     },
 
     {
@@ -185,7 +205,8 @@ let cathedraled = [
         "latitude": 46.805833,
         "longitude": 4.751389,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 21
     },
 
     {
@@ -194,7 +215,8 @@ let cathedraled = [
         "latitude": 46.7125,
         "longitude": 4.6972,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 22
     },
 
     {
@@ -203,7 +225,8 @@ let cathedraled = [
         "latitude": 46.5458,
         "longitude": 4.6875,
         "type": "Chateau",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 23
     },
 
     {
@@ -212,7 +235,8 @@ let cathedraled = [
         "latitude": 46.4519,
         "longitude": 4.1203,
         "type": "Sanctuaire",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 24
     },
 
     {
@@ -221,7 +245,8 @@ let cathedraled = [
         "latitude": 46.959167,
         "longitude": 4.681111,
         "type": "Chateau",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 25
     },
 
     {
@@ -230,7 +255,8 @@ let cathedraled = [
         "latitude": 46.869167,
         "longitude": 4.735278,
         "type": "Chateau",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 26
     },
 
     {
@@ -239,7 +265,8 @@ let cathedraled = [
         "latitude": 43.928333,
         "longitude": 5.186944,
         "type": "Abbeye",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 27
     },
 
     {
@@ -248,7 +275,8 @@ let cathedraled = [
         "latitude": 48.8530,
         "longitude": 2.3499,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 28
     },
 
     {
@@ -257,7 +285,8 @@ let cathedraled = [
         "latitude": 47.181389,
         "longitude": 0.051667,
         "type": "Cathedrale",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 29
     },
 
     {
@@ -266,7 +295,8 @@ let cathedraled = [
         "latitude": 48.851111,
         "longitude": 2.3347,
         "type": "Eglise",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 30
     },
 
     {
@@ -275,7 +305,8 @@ let cathedraled = [
         "latitude": 48.855278,
         "longitude": 2.345,
         "type": "Eglise",
-        "epoque": "Gothique"
+        "epoque": "Gothique",
+        "primaryID": 31
     },
 
     {
@@ -284,7 +315,8 @@ let cathedraled = [
         "latitude": 48.854026,
         "longitude": 2.334088,
         "type": "Eglise",
-        "epoque": "Romano"
+        "epoque": "Romano",
+        "primaryID": 32
     },
 
     {
@@ -293,7 +325,8 @@ let cathedraled = [
         "latitude": 48.935556,
         "longitude": 2.359722,
         "type": "Basilique",
-        "epoque": "Romano-Gothique"
+        "epoque": "Romano-Gothique",
+        "primaryID": 33
     },
 
     {
@@ -302,7 +335,8 @@ let cathedraled = [
         "latitude": 48.8534,
         "longitude": 2.3488,
         "type": "Curiosite",
-        "epoque": "Napoleoniene"
+        "epoque": "Napoleoniene",
+        "primaryID": 34
     },
 
     {
@@ -311,6 +345,7 @@ let cathedraled = [
         "latitude": 48.843459,
         "longitude": 2.326966,
         "type": "Eglise",
-        "epoque": "Napoleoniene"
+        "epoque": "Napoleoniene",
+        "primaryID": 35
     }
 ];
