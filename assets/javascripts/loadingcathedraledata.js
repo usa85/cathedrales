@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
         //console.log(list);
         //console.log(cenotaph2[i].name);
         let cathelement = document.createElement("li");
-        cathelement.innerText = cathedraled[i].noms;
+        cathelement.innerText = cathedraled[i].noms + " - " + cathedraled[i].lieux;
         console.log(cathelement);
 
 
