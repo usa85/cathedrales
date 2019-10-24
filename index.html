@@ -17,7 +17,7 @@
     <link rel="icon" href="assets/images/favicon.ico" type="favicon.png" size="16x16">
 
     <script src="https://kit.fontawesome.com/a54bdd44b1.js"></script>
-    
+
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
@@ -38,31 +38,69 @@
 
     <div class="row" style="margin:0; padding:0;">
         <div class="col-sm-2" id="cathedralelist">
-            <h2 class="mainpageh2">List</h2><hr>
+            <h2 class="mainpageh2">List</h2>
+            <hr>
             <div id="cathlist" class="w3-ul w3-hoverable">
 
             </div>
         </div>
 
         <div class="col-sm-5" id="mapstyle">
-            <h2>Map</h2><hr>
+            <h2>Map</h2>
+            <hr>
             <div id="map">
                 <!--map goes here-->
             </div>
         </div>
 
         <div class="col-sm-5" id="cathedraledescription">
-            <h2>Description</h2><hr>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex mi, sit amet dictum mi dictum in. Cras vel justo sapien. Pellentesque ut ultricies odio. In sed tellus sed dui maximus suscipit. Suspendisse tincidunt eget ante aliquet hendrerit. Praesent nisl mauris, posuere nec ex eget, cursus bibendum turpis. Etiam blandit vel purus nec egestas. In hac habitasse platea dictumst. Donec ut quam suscipit, accumsan nunc in, pretium ipsum. Morbi sit amet pulvinar magna, porta semper dolor. Donec enim dui, pharetra non velit at, laoreet auctor mauris.
-        </p>
-        <p>Sed in tortor sit amet mi consectetur fermentum id et erat. Proin placerat lorem at lacus pharetra, at posuere risus ultricies. Vestibulum placerat ligula mattis pellentesque dictum. Donec congue nunc sit amet feugiat ultricies. Ut ac placerat mauris. Nunc eleifend ultrices tellus, sit amet tristique neque bibendum eu. Aenean dui velit, gravida et mi non, consequat consequat leo. Vivamus condimentum, eros sed feugiat fermentum, dolor lacus volutpat urna, a ullamcorper turpis nibh ut nisl. Nulla elementum felis orci, nec semper mi maximus non. Mauris lacinia, nisl vel tincidunt ultricies, magna ligula venenatis sem, pulvinar varius massa dui id leo. Integer tellus augue, sagittis eget efficitur sed, dapibus ac nisl. Quisque pellentesque tempus diam. Maecenas accumsan interdum felis, ut pulvinar nibh lacinia in.
-</p>
-<p>Vestibulum hendrerit posuere nibh. Nullam imperdiet, augue ac viverra convallis, ligula augue lacinia purus, vel posuere arcu felis vel nisl. Duis tristique nunc fermentum diam suscipit, in lobortis risus efficitur. Mauris aliquet turpis sit amet nisl pellentesque venenatis. Nullam convallis purus in ipsum lobortis, a vehicula ligula mollis. Vivamus eget vulputate tortor. Ut magna libero, ultricies a porttitor eget, dictum sollicitudin diam. Praesent id interdum turpis. Nunc turpis lorem, eleifend quis pulvinar ac, sodales eget dolor. Nulla dapibus facilisis elit, nec suscipit magna sollicitudin vel. In venenatis ligula sed elit laoreet feugiat. Quisque augue felis, pharetra at semper ac, rutrum at odio. Phasellus venenatis nibh nunc, vel tincidunt magna tempor id. Praesent dictum justo lorem, sit amet vehicula lorem lobortis eu. Cras sollicitudin odio eu lobortis ultrices. Integer sit amet commodo sapien.
-</p>
-<p>Suspendisse magna lectus, eleifend at dui in, pharetra feugiat magna. Cras venenatis erat ex, quis molestie urna facilisis eget. Proin ut imperdiet libero, id sodales magna. Etiam fermentum ante in nibh euismod, a pretium dolor suscipit. Vivamus leo risus, pellentesque quis lectus efficitur, blandit imperdiet massa. Nam viverra tellus vel odio luctus pretium. Nulla fringilla diam in venenatis dignissim. Cras quis lacus non nibh placerat facilisis eu id odio. Phasellus euismod sapien quis leo vulputate, in tincidunt magna placerat. Donec interdum massa sed congue efficitur. Nunc in elit iaculis, consequat magna ut, sollicitudin augue. Sed nunc lectus, hendrerit id leo sed, commodo euismod dolor. Quisque vel condimentum lorem. Quisque sed ligula ut justo placerat posuere non condimentum dolor. Pellentesque non tempus neque.
-</p>
-<p>Cras vel lacus rhoncus, finibus leo quis, porttitor velit. Sed ullamcorper sagittis tincidunt. In eget posuere nisl, vitae molestie est. In cursus justo a lacinia egestas. Sed id lacinia nibh. Curabitur finibus in ex ut vulputate. Nunc vel volutpat mi. Aenean id nunc nisi. Duis consectetur mauris dolor, ut dictum mauris venenatis sit amet. Nulla et sem vitae nibh blandit porttitor. In faucibus purus nisi, a pharetra nulla ullamcorper condimentum. In fringilla bibendum libero, at ultrices justo. Nullam lacinia mi diam, quis auctor nunc tincidunt eu. Phasellus erat nulla, gravida nec tortor congue, pulvinar mollis tellus.
-</p>
+            <h2>Description</h2>
+            <hr>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin porttitor nibh. Sed viverra ex
+                mi, sit amet dictum mi dictum in. Cras vel justo sapien. Pellentesque ut ultricies odio. In sed tellus
+                sed dui maximus suscipit. Suspendisse tincidunt eget ante aliquet hendrerit. Praesent nisl mauris,
+                posuere nec ex eget, cursus bibendum turpis. Etiam blandit vel purus nec egestas. In hac habitasse
+                platea dictumst. Donec ut quam suscipit, accumsan nunc in, pretium ipsum. Morbi sit amet pulvinar magna,
+                porta semper dolor. Donec enim dui, pharetra non velit at, laoreet auctor mauris.
+            </p>
+            <p>Sed in tortor sit amet mi consectetur fermentum id et erat. Proin placerat lorem at lacus pharetra, at
+                posuere risus ultricies. Vestibulum placerat ligula mattis pellentesque dictum. Donec congue nunc sit
+                amet feugiat ultricies. Ut ac placerat mauris. Nunc eleifend ultrices tellus, sit amet tristique neque
+                bibendum eu. Aenean dui velit, gravida et mi non, consequat consequat leo. Vivamus condimentum, eros sed
+                feugiat fermentum, dolor lacus volutpat urna, a ullamcorper turpis nibh ut nisl. Nulla elementum felis
+                orci, nec semper mi maximus non. Mauris lacinia, nisl vel tincidunt ultricies, magna ligula venenatis
+                sem, pulvinar varius massa dui id leo. Integer tellus augue, sagittis eget efficitur sed, dapibus ac
+                nisl. Quisque pellentesque tempus diam. Maecenas accumsan interdum felis, ut pulvinar nibh lacinia in.
+            </p>
+            <p>Vestibulum hendrerit posuere nibh. Nullam imperdiet, augue ac viverra convallis, ligula augue lacinia
+                purus, vel posuere arcu felis vel nisl. Duis tristique nunc fermentum diam suscipit, in lobortis risus
+                efficitur. Mauris aliquet turpis sit amet nisl pellentesque venenatis. Nullam convallis purus in ipsum
+                lobortis, a vehicula ligula mollis. Vivamus eget vulputate tortor. Ut magna libero, ultricies a
+                porttitor eget, dictum sollicitudin diam. Praesent id interdum turpis. Nunc turpis lorem, eleifend quis
+                pulvinar ac, sodales eget dolor. Nulla dapibus facilisis elit, nec suscipit magna sollicitudin vel. In
+                venenatis ligula sed elit laoreet feugiat. Quisque augue felis, pharetra at semper ac, rutrum at odio.
+                Phasellus venenatis nibh nunc, vel tincidunt magna tempor id. Praesent dictum justo lorem, sit amet
+                vehicula lorem lobortis eu. Cras sollicitudin odio eu lobortis ultrices. Integer sit amet commodo
+                sapien.
+            </p>
+            <p>Suspendisse magna lectus, eleifend at dui in, pharetra feugiat magna. Cras venenatis erat ex, quis
+                molestie urna facilisis eget. Proin ut imperdiet libero, id sodales magna. Etiam fermentum ante in nibh
+                euismod, a pretium dolor suscipit. Vivamus leo risus, pellentesque quis lectus efficitur, blandit
+                imperdiet massa. Nam viverra tellus vel odio luctus pretium. Nulla fringilla diam in venenatis
+                dignissim. Cras quis lacus non nibh placerat facilisis eu id odio. Phasellus euismod sapien quis leo
+                vulputate, in tincidunt magna placerat. Donec interdum massa sed congue efficitur. Nunc in elit iaculis,
+                consequat magna ut, sollicitudin augue. Sed nunc lectus, hendrerit id leo sed, commodo euismod dolor.
+                Quisque vel condimentum lorem. Quisque sed ligula ut justo placerat posuere non condimentum dolor.
+                Pellentesque non tempus neque.
+            </p>
+            <p>Cras vel lacus rhoncus, finibus leo quis, porttitor velit. Sed ullamcorper sagittis tincidunt. In eget
+                posuere nisl, vitae molestie est. In cursus justo a lacinia egestas. Sed id lacinia nibh. Curabitur
+                finibus in ex ut vulputate. Nunc vel volutpat mi. Aenean id nunc nisi. Duis consectetur mauris dolor, ut
+                dictum mauris venenatis sit amet. Nulla et sem vitae nibh blandit porttitor. In faucibus purus nisi, a
+                pharetra nulla ullamcorper condimentum. In fringilla bibendum libero, at ultrices justo. Nullam lacinia
+                mi diam, quis auctor nunc tincidunt eu. Phasellus erat nulla, gravida nec tortor congue, pulvinar mollis
+                tellus.
+            </p>
         </div>
     </div>
 
@@ -71,7 +109,7 @@
             <P>nav goes here!</P>
         </div>
     </div>
-    
+
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="assets/javascripts/cathedralemap.js"></script>

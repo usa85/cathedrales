@@ -22,7 +22,8 @@ function setMarkers(map) {
       icon: image,
       shape: shape,
       title: cathem.noms,
-      labels: cathem.nearestRelative
+      labels: cathem.nearestRelative,
+      
 
     });
   }
