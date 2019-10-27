@@ -10,10 +10,10 @@ function clickfunction(id){
     // content.appendChild(picture);
 };
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", ()=>{
 
    let description=document.querySelector("#descriptionHeader");
-    description.addEventListener('click', () => {
+    description.addEventListener('click', ()=>{
         let content = document.querySelector("#content");
         content.innerHTML=basedescription;
     });
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         let cathelement = document.createElement("li");
 
-        cathelement.innerHTML = '<span onclick="clickfunction('+ (cathedraled[i].primaryID-1) + ')">' + cathedraled[i].noms + " <br><i>" + cathedraled[i].lieux +"</i>" + '</span>';
+        cathelement.innerHTML = '<span onclick="clickfunction('+ (cathedraled[i].primaryID-1) + ')"><strong>' + cathedraled[i].noms + "</strong> <br><i>" + cathedraled[i].lieux +"</i>" + '</span>';
         console.log(cathelement);
 
 
