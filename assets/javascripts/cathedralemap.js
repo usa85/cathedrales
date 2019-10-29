@@ -23,9 +23,10 @@ function setMarkers(map) {
       shape: shape,
       title: cathem.noms,
       labels: cathem.nearestRelative,
-      
+      id: cathem.primaryID,
 
-    });
+    }); 
+    console.log(marker);
   }
 }
 
@@ -36,4 +37,5 @@ function initMap() {
   });
 
   setMarkers(map);
+  console.log(google.maps);
 }

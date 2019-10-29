@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
 
         let cathelement = document.createElement("li");
 
-        cathelement.innerHTML = '<span onclick="clickfunction('+ (cathedraled[i].primaryID-1) + ')"><strong>' + cathedraled[i].noms + "</strong> <br><i>" + cathedraled[i].lieux +"</i>" + '</span>';
+        cathelement.innerHTML = '<span onclick="clickfunction('+ (i) + ')"><strong>' + cathedraled[i].noms + "</strong> <br><i>" + cathedraled[i].lieux +"</i>" + '</span>';
         console.log(cathelement);
 
 
