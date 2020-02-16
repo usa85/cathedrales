@@ -1,3 +1,15 @@
+var markers = {};
+
+var map;
+
+function resetMarkers(){
+  markers.clean=true;
+  
+  for (var marker in markers){
+    markers[marker].setMap(map);
+  }
+};
+
 function setMarkers(map) {
   var image = {
     url: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png',
@@ -14,28 +26,36 @@ function setMarkers(map) {
     type: 'poly'
   };
 
+  markers.clean = true;
+
   for (var i = 0; i < cathedraled.length; i++) {
     var cathem = cathedraled[i];
-    var marker = new google.maps.Marker({
+  markers[cathem.primaryID] = new google.maps.Marker({
       position: { lat: cathem.latitude, lng: cathem.longitude },
       map: map,
-      icon: image,
+      icon: {
+        path: google.maps.SymbolPath.CIRCLE,
+        scale: 5.5,
+        fillColor:'red',
+        fillOpacity: 0.8,
+        strokeColor: 'blue',
+        strokeWeight:0.8
+        },
       shape: shape,
-      title: cathem.noms,
-      labels: cathem.nearestRelative,
-      id: cathem.primaryID,
+      title: (cathem.noms + '\nLocation: ' + cathem.lieux || "undefined"),
+      labels: cathem.primaryID,
 
-    }); 
-    console.log(marker);
+      });
+    
   }
 }
 
 function initMap() {
-  var map = new google.maps.Map(document.getElementById('map'), {
+ map = new google.maps.Map(document.getElementById('map'), {
     zoom: 5.5,
-    center: { lat: 46.8, lng: 2.2137 }
+    center: { lat: 46.8, lng: 2.2137 },
+    mapTypeID: 'satellite'
   });
 
-  setMarkers(map);
-  console.log(google.maps);
+  setMarkers(map)
 }

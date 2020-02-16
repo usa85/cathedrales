@@ -3,8 +3,12 @@
     #map {
         width: 100%;
         height: 665px;
-    
+         
       }
+
+   h5{
+      font-size: 2rem;
+   }
       /* Optional: Makes the sample page fill the window. */
       html, body {
         
