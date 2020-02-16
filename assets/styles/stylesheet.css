@@ -17,6 +17,7 @@
         padding: 0;
         background-color: black
       }
+  
 
       tr:hover {background-color: whitesmoke;
                 color: red;
@@ -77,12 +78,13 @@
         padding-bottom: 2rem;
         
      }
-
+   
 
      #vm_header{
          background-image: url('mypicture.jpg');
          background-color: brown;
-         color: white
+         color: white;
+        
      }
 
      h1{
@@ -92,8 +94,10 @@
          
      }
      .w3-container{
-         height: 10rem;
+         height: rem;
          padding-top: 2rem;
+         color: white;
+         text-align: center;
          
          
      }
