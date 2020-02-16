@@ -4,7 +4,7 @@ basedescription = document.querySelector("#content").innerHTML;
 function clickfunction(id){
     console.log(id);
     let content = document.querySelector("#content");
-    content.innerHTML= cathedraled[id].description; 
+    content.innerHTML= cathedraled[id].description + '<br>'+ cathedraled[id].somevar.un  + '<br>'+ cathedraled[id].somevar.deux + '<br>'+ cathedraled[id].somevar.trois; 
     // let picture = document.createElement("img")
     // picture.src=cathedraled[id].pictureURL;
     // content.appendChild(picture);
